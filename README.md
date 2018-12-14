@@ -23,3 +23,14 @@ else{
 }
 }
 ##set up
+Google Chrome
+Visual Studio Code
+
+
+## contributors
+-Ingenzi Assumpta <ingenziass@gmail.com>
+
+
+## License & Copyright
+(c)Ingenzi Assumpta,2018
+
