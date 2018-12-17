@@ -30,6 +30,14 @@ Visual Studio Code
 Terminal
 
 ##DBB
+    
+ |-----------------------------------|------------|---------------| 
+ |Behavior                           |   input    |    Output     | 
+ |-----------------------------------|------------|---------------| |                                   |            |               |
+ |                                   |            |               |
+ |                                   |            |               |
+ |                                   |            |               |
+ |                                   |            |
 
 ## contributors
 -Ingenzi Assumpta <ingenziass@gmail.com>
