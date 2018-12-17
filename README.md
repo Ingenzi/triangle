@@ -34,7 +34,9 @@ Terminal
     
  | Behavior                          | input      |Output                                       |
  |-----------------------------------|------------|---------------------------------------------| 
- | all three sides are equal         | 6,6,6      |   Equilateral Triangle                      |        |has two sides of equal length      |  6,6,2     |     Isocele Triangle                        |        |sides are different in length      |  6,3,4     |    Scalene Triangle                         |
+ | all three sides are equal         | 6,6,6      |   Equilateral Triangle                      |        |                                   |            |                                             |
+ |has two sides of equal length      |  6,6,2     |     Isocele Triangle                        |        |                                   |            |                                             |
+ |sides are different in length      |  6,3,4     |    Scalene Triangle                         |
                                                                                         
                                                                                    
 ## contributors
