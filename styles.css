@@ -1,22 +1,12 @@
 body{
     background-color:grey;
-}
-
-h1{
-
-    color:blue;
-    
-    
+    font-family: monospace;
+    font-size-adjust: inherit;
 }
 h3{
-    color:grey;
+    color:black;
 }
 h1{
     text-align: center;
-}
-h1{
-    display:inline;
-}
-h1{
-    font-size: 60px;
+    color:blue;
 }
