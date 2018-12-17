@@ -5,8 +5,22 @@ body{
 }
 h3{
     color:black;
+    font-style: calibri;
 }
 h1{
     text-align: center;
     color:blue;
+}
+.twitter{
+    background-color:white;
+    color:aqua;
+
+}
+.google{
+    background-color:gray;
+    color: blue; 
+}
+.facebook{
+    background-color:white;
+    color: blue; 
 }
