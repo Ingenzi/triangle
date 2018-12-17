@@ -2,6 +2,8 @@
 
 Ingenzi Assumpta
 
+This project is about to build an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.
+
 ## Function
 
 function myTriangle(){
@@ -22,7 +24,7 @@ else{
     console.log("not a triangle")
 }
 }
-##set up
+## set up
 Google Chrome
 Visual Studio Code
 
@@ -33,4 +35,9 @@ Visual Studio Code
 
 ## License & Copyright
 (c)Ingenzi Assumpta,2018
+
+## Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
 
