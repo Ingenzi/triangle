@@ -37,7 +37,10 @@ Terminal
 ## License & Copyright
 (c)Ingenzi Assumpta,2018
 
-
+## Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
 
 
 
