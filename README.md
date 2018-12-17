@@ -27,17 +27,12 @@ else{
 ## set up
 Google Chrome
 Visual Studio Code
+Terminal
+
+##DBB
 
 
-## contributors
--Ingenzi Assumpta <ingenziass@gmail.com>
 
 
-## License & Copyright
-(c)Ingenzi Assumpta,2018
 
-## Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
 
