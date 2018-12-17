@@ -34,6 +34,11 @@ Terminal
 ## contributors
 -Ingenzi Assumpta <ingenziass@gmail.com>
 
+## License & Copyright
+(c)Ingenzi Assumpta,2018
+
+
+
 
 
 
