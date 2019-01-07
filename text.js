@@ -2,6 +2,8 @@ function myTriangle(){
     var numberx=parseInt(document.getElementById("numberx").value);
     var numbery=parseInt(document.getElementById("numbery").value);
     var numberz=parseInt(document.getElementById("numberz").value);
+    var triangle =[numberx, numbery,numberz];
+    console.log(triangle);
 
     if(numberx+numbery>numberz && numberx+numberz> numbery && numbery+ numberz> numberx ){
 
